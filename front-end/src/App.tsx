@@ -10,9 +10,9 @@ import FAQPage from "./pages/home/FAQPage";
 
 import "./App.css";
 import SettingsPage from "./pages/input/SettingsPage";
-import Toolbar from "./components/toolbar/Toolbar";
 import LeaderBoardPage from "./pages/home/LeaderBoardPage";
 import HomePage from "./pages/home/HomePage";
+import Toolbar from "./components/Toolbar/Toolbar";
 
 /**
  * This is the highest level component!
